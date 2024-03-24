@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotesingle" format="2">
+  <advance width="155.0"/>
+  <unicode hex="0027"/>
+  <outline>
+    <component base="pixel" xOffset="31.0" yOffset="651"/>
+    <component base="pixel" xOffset="62.0" yOffset="651"/>
+    <component base="pixel" xOffset="93.0" yOffset="651"/>
+    <component base="pixel" xOffset="31.0" yOffset="620"/>
+    <component base="pixel" xOffset="62.0" yOffset="620"/>
+    <component base="pixel" xOffset="93.0" yOffset="620"/>
+    <component base="pixel" xOffset="31.0" yOffset="589"/>
+    <component base="pixel" xOffset="62.0" yOffset="589"/>
+    <component base="pixel" xOffset="93.0" yOffset="589"/>
+    <component base="pixel" xOffset="31.0" yOffset="558"/>
+    <component base="pixel" xOffset="62.0" yOffset="558"/>
+    <component base="pixel" xOffset="93.0" yOffset="558"/>
+    <component base="pixel" xOffset="93.0" yOffset="527"/>
+    <component base="pixel" xOffset="62.0" yOffset="496"/>
+    <component base="pixel" xOffset="93.0" yOffset="496"/>
+    <component base="pixel" xOffset="31.0" yOffset="465"/>
+    <component base="pixel" xOffset="62.0" yOffset="465"/>
+    <component base="pixel" xOffset="31.0" yOffset="434"/>
+  </outline>
+</glyph>

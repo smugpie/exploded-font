@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresis" format="2">
+  <advance width="372.0"/>
+  <unicode hex="00A8"/>
+  <outline>
+    <component base="pixel" xOffset="31.0" yOffset="775"/>
+    <component base="pixel" xOffset="62.0" yOffset="775"/>
+    <component base="pixel" xOffset="93.0" yOffset="775"/>
+    <component base="pixel" xOffset="248.0" yOffset="775"/>
+    <component base="pixel" xOffset="279.0" yOffset="775"/>
+    <component base="pixel" xOffset="310.0" yOffset="775"/>
+    <component base="pixel" xOffset="31.0" yOffset="744"/>
+    <component base="pixel" xOffset="62.0" yOffset="744"/>
+    <component base="pixel" xOffset="93.0" yOffset="744"/>
+    <component base="pixel" xOffset="248.0" yOffset="744"/>
+    <component base="pixel" xOffset="279.0" yOffset="744"/>
+    <component base="pixel" xOffset="310.0" yOffset="744"/>
+    <component base="pixel" xOffset="31.0" yOffset="713"/>
+    <component base="pixel" xOffset="62.0" yOffset="713"/>
+    <component base="pixel" xOffset="93.0" yOffset="713"/>
+    <component base="pixel" xOffset="248.0" yOffset="713"/>
+    <component base="pixel" xOffset="279.0" yOffset="713"/>
+    <component base="pixel" xOffset="310.0" yOffset="713"/>
+  </outline>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macron" format="2">
+  <advance width="341.0"/>
+  <unicode hex="00AF"/>
+  <outline>
+    <component base="pixel" xOffset="31.0" yOffset="775"/>
+    <component base="pixel" xOffset="62.0" yOffset="775"/>
+    <component base="pixel" xOffset="93.0" yOffset="775"/>
+    <component base="pixel" xOffset="124.0" yOffset="775"/>
+    <component base="pixel" xOffset="155.0" yOffset="775"/>
+    <component base="pixel" xOffset="186.0" yOffset="775"/>
+    <component base="pixel" xOffset="217.0" yOffset="775"/>
+    <component base="pixel" xOffset="248.0" yOffset="775"/>
+    <component base="pixel" xOffset="279.0" yOffset="775"/>
+    <component base="pixel" xOffset="31.0" yOffset="744"/>
+    <component base="pixel" xOffset="62.0" yOffset="744"/>
+    <component base="pixel" xOffset="93.0" yOffset="744"/>
+    <component base="pixel" xOffset="124.0" yOffset="744"/>
+    <component base="pixel" xOffset="155.0" yOffset="744"/>
+    <component base="pixel" xOffset="186.0" yOffset="744"/>
+    <component base="pixel" xOffset="217.0" yOffset="744"/>
+    <component base="pixel" xOffset="248.0" yOffset="744"/>
+    <component base="pixel" xOffset="279.0" yOffset="744"/>
+  </outline>
+</glyph>

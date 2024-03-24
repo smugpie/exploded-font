@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0081" format="2">
+  <advance width="713.0"/>
+  <unicode hex="0081"/>
+  <outline>
+    <component base="pixel" xOffset="62.0" yOffset="93"/>
+    <component base="pixel" xOffset="93.0" yOffset="93"/>
+    <component base="pixel" xOffset="124.0" yOffset="93"/>
+    <component base="pixel" xOffset="310.0" yOffset="93"/>
+    <component base="pixel" xOffset="341.0" yOffset="93"/>
+    <component base="pixel" xOffset="372.0" yOffset="93"/>
+    <component base="pixel" xOffset="558.0" yOffset="93"/>
+    <component base="pixel" xOffset="589.0" yOffset="93"/>
+    <component base="pixel" xOffset="620.0" yOffset="93"/>
+    <component base="pixel" xOffset="62.0" yOffset="62"/>
+    <component base="pixel" xOffset="93.0" yOffset="62"/>
+    <component base="pixel" xOffset="124.0" yOffset="62"/>
+    <component base="pixel" xOffset="310.0" yOffset="62"/>
+    <component base="pixel" xOffset="341.0" yOffset="62"/>
+    <component base="pixel" xOffset="372.0" yOffset="62"/>
+    <component base="pixel" xOffset="558.0" yOffset="62"/>
+    <component base="pixel" xOffset="589.0" yOffset="62"/>
+    <component base="pixel" xOffset="620.0" yOffset="62"/>
+    <component base="pixel" xOffset="62.0" yOffset="31"/>
+    <component base="pixel" xOffset="93.0" yOffset="31"/>
+    <component base="pixel" xOffset="124.0" yOffset="31"/>
+    <component base="pixel" xOffset="310.0" yOffset="31"/>
+    <component base="pixel" xOffset="341.0" yOffset="31"/>
+    <component base="pixel" xOffset="372.0" yOffset="31"/>
+    <component base="pixel" xOffset="558.0" yOffset="31"/>
+    <component base="pixel" xOffset="589.0" yOffset="31"/>
+    <component base="pixel" xOffset="620.0" yOffset="31"/>
+    <component base="pixel" xOffset="62.0"/>
+    <component base="pixel" xOffset="93.0"/>
+    <component base="pixel" xOffset="124.0"/>
+    <component base="pixel" xOffset="310.0"/>
+    <component base="pixel" xOffset="341.0"/>
+    <component base="pixel" xOffset="372.0"/>
+    <component base="pixel" xOffset="558.0"/>
+    <component base="pixel" xOffset="589.0"/>
+    <component base="pixel" xOffset="620.0"/>
+  </outline>
+</glyph>
